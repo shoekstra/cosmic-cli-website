@@ -1,0 +1,35 @@
+baseURL = "https://shoekstra.github.io/cosmic-cli/"
+languageCode = "en-US"
+defaultContentLanguage = "en"
+
+title = "Documentation for Cosmic CLI"
+theme = "hugo-theme-learn"
+publishDir = "../docs"
+
+metaDataFormat = "yaml"
+defaultContentLanguageInSubdir= true
+showVisitedLinks = false
+
+[params]
+  editURL = "https://github.com/shoekstra/cosmic-cli-website/edit/master/website/content/"
+  description = "Documentation for Cosmic CLI"
+  author = "Stephen Hoekstra"
+  showVisitedLinks = false
+  disableBreadcrumb = false
+  disableNextPrev = false
+  themeVariant = "blue"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[Languages]
+[Languages.en]
+title = "Documentation for Cosmic CLI"
+weight = 1
+languageName = "English"
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
+identifier = "ds"
+url = "https://github.com/shoekstra/cosmic-cli"
+weight = 10
