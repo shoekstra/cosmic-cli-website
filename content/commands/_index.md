@@ -2,7 +2,6 @@
 title: "Commands"
 weight: 20
 date: 2019-07-21T11:28:02+02:00
-draft: true
 ---
 
 On the left is a command reference of all Cosmic CLI commands and their sub-commands.

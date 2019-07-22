@@ -1,7 +1,6 @@
 ---
 title: "License"
 date: 2019-07-22T16:17:39+02:00
-draft: true
 ---
 
 This project is is licensed under the Apache 2.0 license.

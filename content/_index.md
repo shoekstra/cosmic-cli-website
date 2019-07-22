@@ -1,7 +1,6 @@
 ---
 title: "Cosmic CLI"
 date: 2019-07-21T11:14:22+02:00
-draft: true
 ---
 
 # Cosmic CLI

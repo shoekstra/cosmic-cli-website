@@ -2,7 +2,6 @@
 title: "Install"
 weight: 10
 date: 2019-07-21T11:28:45+02:00
-draft: true
 ---
 
 The following binaries are available from the master branch:

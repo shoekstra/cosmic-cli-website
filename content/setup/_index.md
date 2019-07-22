@@ -2,7 +2,6 @@
 title: "Setup"
 weight: 15
 date: 2019-07-21T11:28:51+02:00
-draft: true
 ---
 
 Cosmic CLI requires a config file at `$HOME/.cosmic-cli/config.toml` to run. This file should contain each Cosmic API you want to run commands against.
