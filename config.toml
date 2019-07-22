@@ -33,3 +33,9 @@ name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
 url = "https://github.com/shoekstra/cosmic-cli"
 weight = 10
+
+[[Languages.en.menu.shortcuts]]
+name = "<i class='far fa-fw fa-file-alt'></i> License"
+identifier = "license"
+url = "/license"
+weight = 20
