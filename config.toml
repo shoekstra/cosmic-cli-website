@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir= true
 showVisitedLinks = false
 
 [params]
-  editURL = "https://github.com/shoekstra/cosmic-cli-website/edit/master/website/content/"
+  editURL = "https://github.com/shoekstra/cosmic-cli-website/edit/master/content/"
   description = "Documentation for Cosmic CLI"
   author = "Stephen Hoekstra"
   showVisitedLinks = false
